@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1e7Ow9jInSEu0HYhDCmFYTIigIfmqZkm5Uv2HW2AiSY=",
+  "Source": "OpenAPI",
+  "BasePath": "_content/OpenAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
