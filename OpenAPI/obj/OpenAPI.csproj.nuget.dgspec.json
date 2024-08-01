@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qumbar\\Source\\Repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj": {}
+    "C:\\Users\\Qumbar\\source\\repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qumbar\\Source\\Repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj": {
+    "C:\\Users\\Qumbar\\source\\repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qumbar\\Source\\Repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Qumbar\\source\\repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj",
         "projectName": "OpenAPI",
-        "projectPath": "C:\\Users\\Qumbar\\Source\\Repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj",
+        "projectPath": "C:\\Users\\Qumbar\\source\\repos\\OpenAPI-MentalHealth\\OpenAPI\\OpenAPI.csproj",
         "packagesPath": "C:\\Users\\Qumbar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qumbar\\Source\\Repos\\OpenAPI-MentalHealth\\OpenAPI\\obj\\",
+        "outputPath": "C:\\Users\\Qumbar\\source\\repos\\OpenAPI-MentalHealth\\OpenAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
